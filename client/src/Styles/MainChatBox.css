@@ -1,0 +1,13 @@
+.MainChatBox {
+  height: 400px;
+  width: 400px;
+  background-color: lightgrey;
+  overflow: scroll;
+  vertical-align: bottom;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.InputBox {
+  width: 350px;
+}
